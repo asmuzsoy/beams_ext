@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 *.pdf
 *.csv
+*.zip
+transients_spec_group/*
