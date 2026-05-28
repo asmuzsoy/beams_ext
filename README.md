@@ -1,0 +1,1 @@
+Code for Uzsoy & Villar (2026): "Photometry is all you need: supernova classification as a mixing problem". Note that this repository includes code written with GitHub CoPilot and Claude Code. The name "beams-ext" comes from our aim to extend on the BEAMS framework presented in Kunz et al. (2007).
